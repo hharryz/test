@@ -1,6 +1,2 @@
 i am doing optional work on dev branch.
-<<<<<<< HEAD
 i have sth to test on git - setting up a repository solve changes!...
-=======
-i have sth to test on git - setting up a repository solve changes!...
->>>>>>> feature1
