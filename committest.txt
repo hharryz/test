@@ -1,2 +1,3 @@
 i am doing optional work on dev branch.
+i added sth on feature1
 i have sth to test on git - setting up a repository conflict changes!...
