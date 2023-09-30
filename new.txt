@@ -1,3 +1,4 @@
 this is a new file to test merge
 i would like to test branch arrangement
 things unchanged
+bug fixed
